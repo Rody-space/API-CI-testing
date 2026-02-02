@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="041e449a-b701-469c-95e9-1b6bba8694a1" name="Изменения" comment="&quot;Initial commit: project structure and SUT jar&quot;">
-      <change beforePath="$PROJECT_DIR$/tmp-aqa/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" afterPath="$PROJECT_DIR$/tmp-aqa/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" afterDir="false" />
-    </list>
+    <list default="true" id="041e449a-b701-469c-95e9-1b6bba8694a1" name="Изменения" comment="&quot;Initial commit:fail&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tmp-aqa" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -52,11 +51,20 @@
       <option name="project" value="LOCAL" />
       <updated>1770012489321</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Initial commit:fail&quot;">
+      <option name="closed" value="true" />
+      <created>1770013171421</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770013171421</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Initial commit: project structure and SUT jar&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial commit: project structure and SUT jar&quot;" />
+    <MESSAGE value="&quot;Initial commit:fail&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial commit:fail&quot;" />
   </component>
 </project>
